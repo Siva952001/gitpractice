@@ -1,1 +1,1 @@
-heyyyyyyy
+print("hy")
